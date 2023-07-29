@@ -2,7 +2,7 @@
 
 
 
-# 💫 About Me:
+# About Me:
 🌱 I’m currently working on DSA and Web Development<br>🤝 I’m looking to network with new people <br>
 
 ---
