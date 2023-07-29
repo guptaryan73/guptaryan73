@@ -1,4 +1,5 @@
-![Hi!]([https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)) 
+[![MasterHead](https://imgs.search.brave.com/qS5j8Q78V3OCfrGgPXjAYJxcDotX6qofNDEGiQgwsTs/rs:fit:1200:300:1/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RfbW9kdWxl/cy9mcy81NGI2YzA2/ODA5NzU5OS41YjUw/YmNhNDc2YjliLmdp/Zg.gif)]
+
 
 # 💫 About Me:
 🌱 I’m currently working on DSA and Web Development<br>🤝 I’m looking to network with new people <br>
