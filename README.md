@@ -1,4 +1,4 @@
-![giffy gif](https://github.com/guptaryan73/guptaryan73/assets/91944072/52270cd9-31ef-40e2-be9f-dedabd1f09a4)
+<img src="[pic.jpeg](https://github.com/guptaryan73/guptaryan73/assets/91944072/52270cd9-31ef-40e2-be9f-dedabd1f09a4)" width="100%" height="50%" />
 
 
 
