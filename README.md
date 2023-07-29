@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DSA and Web Development<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking to network with new people <br>🌱 I’m currently learning DSA and MERN stack
+🌱 I’m currently working on DSA and Web Development<br>🤝 I’m looking to network with new people <br>
 
 
 ## 🌐 Socials:
