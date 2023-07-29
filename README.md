@@ -9,6 +9,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=guptaryan73&icon=2&color=0)](https://visitcount.itsvg.in)
+<a href="https://github.com/TridibD004?tab=followers"><img src="https://img.shields.io/github/followers/TridibD004?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yetanotheraryan_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryangupta0) 
