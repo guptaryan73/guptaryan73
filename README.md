@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently working on DSA and Web Development<br>🤝 I’m looking to network with new people <br>
+🌱 I’m currently working on DSA and Web Development<br>🤝  I’m looking to network with new people <br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=guptaryan73&icon=2&color=0)](https://visitcount.itsvg.in)
