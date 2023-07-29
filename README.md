@@ -4,7 +4,7 @@
 </p>
 <h1 align="center"> Hello <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="50px" height="50px" style="max-width:100%;">  I'm <a> Aryan </a>
 
-# 🦹 About Me:
+#  🚶‍♂️About Me:
 🌱 I’m currently working on DSA and Web Development<br>🤝 I’m looking to network with new people <br>
 
 ---
