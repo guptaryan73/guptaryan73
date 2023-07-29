@@ -8,8 +8,15 @@
 🌱 I’m currently working on DSA and Web Development<br>🤝 I’m looking to network with new people <br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=guptaryan73&icon=2&color=0)](https://visitcount.itsvg.in)
-<a href="[https://github.com/TridibD004?tab=followers](https://github.com/guptaryan73?tab=followers)"><img src="https://img.shields.io/github/followers/TridibD004?label=Followers&style=social" alt="GitHub Badge"></a>
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=TridibD004">
+</a>
+<a href="https://github.com/TridibD004?tab=followers"><img src="https://img.shields.io/github/followers/TridibD004?label=Followers&style=social" alt="GitHub Badge"></a>
+<p align="center">
+  <img width="250" height="200" src="https://media.giphy.com/media/lb5njh6zDXFauXpBtC/giphy.gif">
+</p>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yetanotheraryan_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryangupta0) 
