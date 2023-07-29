@@ -1,6 +1,8 @@
 # 💫 About Me:
 🌱 I’m currently working on DSA and Web Development<br>🤝 I’m looking to network with new people <br>
 
+---
+[![](https://visitcount.itsvg.in/api?id=guptaryan73&icon=2&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yetanotheraryan_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryangupta0) 
@@ -25,5 +27,4 @@
 ### ✍️ Quote of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=guptaryan73&icon=2&color=0)](https://visitcount.itsvg.in)
+
