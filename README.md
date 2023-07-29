@@ -1,7 +1,5 @@
-<img src="[pic.jpeg](https://github.com/guptaryan73/guptaryan73/assets/91944072/52270cd9-31ef-40e2-be9f-dedabd1f09a4)" width="100%" height="50%" />
 
-
-
+![giffy gif](https://github.com/guptaryan73/guptaryan73/assets/91944072/db222816-be12-4ef0-b1a3-867324f2dd5f)
 # 🦹 About Me:
 🌱 I’m currently working on DSA and Web Development<br>🤝 I’m looking to network with new people <br>
 
