@@ -8,14 +8,12 @@
 🌱 I’m currently working on DSA and Web Development<br>🤝 I’m looking to network with new people <br>
 
 ---
-## ❤ Views and Followers
+
+
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=TridibD004">
+    <img src="https://komarev.com/ghpvc/?username=guptaryan73">
 </a>
-<a href="https://github.com/TridibD004?tab=followers"><img src="https://img.shields.io/github/followers/TridibD004?label=Followers&style=social" alt="GitHub Badge"></a>
-<p align="center">
-  <img width="250" height="200" src="https://media.giphy.com/media/lb5njh6zDXFauXpBtC/giphy.gif">
-</p>
+
 
 
 ## 🌐 Socials:
