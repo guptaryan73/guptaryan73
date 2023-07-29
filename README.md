@@ -1,3 +1,5 @@
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC))
+
 # 💫 About Me:
 🌱 I’m currently working on DSA and Web Development<br>🤝 I’m looking to network with new people <br>
 
