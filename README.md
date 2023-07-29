@@ -1,4 +1,4 @@
-![giffy](https://github.com/guptaryan73/guptaryan73/assets/91944072/9923077d-f823-4806-a3c2-6263c0742d1c)
+![giffy gif](https://github.com/guptaryan73/guptaryan73/assets/91944072/52270cd9-31ef-40e2-be9f-dedabd1f09a4)
 
 
 
