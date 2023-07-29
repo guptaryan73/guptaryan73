@@ -1,4 +1,4 @@
-[![MasterHead]([https://imgs.search.brave.com/qS5j8Q78V3OCfrGgPXjAYJxcDotX6qofNDEGiQgwsTs/rs:fit:1200:300:1/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RfbW9kdWxl/cy9mcy81NGI2YzA2/ODA5NzU5OS41YjUw/YmNhNDc2YjliLmdp/Zg.gif](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC))]
+[[https://imgs.search.brave.com/qS5j8Q78V3OCfrGgPXjAYJxcDotX6qofNDEGiQgwsTs/rs:fit:1200:300:1/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RfbW9kdWxl/cy9mcy81NGI2YzA2/ODA5NzU5OS41YjUw/YmNhNDc2YjliLmdp/Zg.gif](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC))]
 
 # 💫 About Me:
 🌱 I’m currently working on DSA and Web Development<br>🤝 I’m looking to network with new people <br>
